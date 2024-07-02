@@ -5,18 +5,17 @@
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h2>
 
 <p>Hello! I'm a dedicated and enthusiastic React developer with a passion for creating dynamic and engaging web applications. With a strong foundation in JavaScript and a keen eye for detail, I love turning complex problems into intuitive and beautiful user interfaces.
-
-My Expertise:
-React.js: Mastering the art of building modern, responsive UIs
-JavaScript (ES6+): Writing clean, efficient, and maintainable code
-HTML & CSS: Designing structured, accessible, and visually appealing web pages
-Redux: Managing application state effectively and efficiently
-REST APIs: Seamlessly integrating and interacting with backend services
-What I'm Exploring:
-Next.js: Leveraging server-side rendering and static site generation to enhance React applications
-TypeScript: Adding type safety and scalability to my projects for better maintainability
-GraphQL: Implementing efficient data fetching and management strategies</p>
-
+<br>
+My Expertise:<br>
+React.js: Mastering the art of building modern, responsive UIs<br>
+JavaScript (ES6+): Writing clean, efficient, and maintainable code<br>
+HTML & CSS: Designing structured, accessible, and visually appealing web pages<br>
+Redux: Managing application state effectively and efficiently<br>
+REST APIs: Seamlessly integrating and interacting with backend services<br>
+What I'm Exploring:<br>
+Next.js: Leveraging server-side rendering and static site generation to enhance React applications<br>
+TypeScript: Adding type safety and scalability to my projects for better maintainability<br>
+GraphQL: Implementing efficient data fetching and management strategies</p><br>
 
 ## My Skills
 
