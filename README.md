@@ -1,4 +1,6 @@
-[![Banner][banner-img]][banner-link]
+# Hello there 👋
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h2>
 
