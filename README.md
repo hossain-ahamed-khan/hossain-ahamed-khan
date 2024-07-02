@@ -4,15 +4,19 @@
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h2>
 
-<p align="justify">I am a NodeJS developer with 14 years of coding experience.</p>
+<p>Hello! I'm a dedicated and enthusiastic React developer with a passion for creating dynamic and engaging web applications. With a strong foundation in JavaScript and a keen eye for detail, I love turning complex problems into intuitive and beautiful user interfaces.
 
-<p align="justify">I started in 2009 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2010/2011, I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a version of BASIC so I could program games for my 3DS using a DSi app called Petit Computer. In 2015 I found NodeJS and started using it to create some basic bots for various chat platforms.</p>
+My Expertise:
+React.js: Mastering the art of building modern, responsive UIs
+JavaScript (ES6+): Writing clean, efficient, and maintainable code
+HTML & CSS: Designing structured, accessible, and visually appealing web pages
+Redux: Managing application state effectively and efficiently
+REST APIs: Seamlessly integrating and interacting with backend services
+What I'm Exploring:
+Next.js: Leveraging server-side rendering and static site generation to enhance React applications
+TypeScript: Adding type safety and scalability to my projects for better maintainability
+GraphQL: Implementing efficient data fetching and management strategies</p>
 
-<p align="justify">My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product. The wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose.</p>
-
-<p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES11. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
-
-<p align="justify">Most recently I've been trying to get better at bash scripting, so I'm trying to find simple projects written in other languages that I can port to bash. My <a href="https://github.com/cheesits456/asciibots-bash">asciibots-bash</a> project is one example of this, and in the future I hope to find more projects like it that I can port to bash.</p>
 
 ## My Skills
 
